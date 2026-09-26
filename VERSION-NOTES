@@ -37,3 +37,11 @@ It now cost 3 AP to resurrect a friendly unit, there is a 1 turn cooldown on res
 -	New effect: When a unit takes damage from wildfire, plague, and arcane there is a new effect that is shown to indicate the damage.
 -	Fixed an issue where Arcane was not highlighting squares properly.
 
+
+0.1.8 Patch Notes
+09/22/2026
+-	Introduced a karmic dice style system to break up streaks of bad rolls and good ones. This affects both the player and AI.
+-	Further enhanced the AI and its difficulty.
+-	Added an animation for when a unit is buffed or debuffed for visual clarity.
+-	Stopped tiles already tagged with Wildfire, Arcane, and Plague from being able to be overlapped by an enemy Wildfire, Arcane, and Plague.
+
